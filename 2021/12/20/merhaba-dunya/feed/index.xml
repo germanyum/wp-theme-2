@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	 için yorumlar	</title>
-	<atom:link href="https://germanyum.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://germanyum.github.io</link>
+	Merhaba dünya! yazısına yapılan yorumlar	</title>
+	<atom:link href="https://germanyum.github.io/2021/12/20/merhaba-dunya/feed/" rel="self" type="application/rss+xml" />
+	<link>https://germanyum.github.io/2021/12/20/merhaba-dunya/</link>
 	<description>Bir başka WordPress sitesi</description>
 	<lastBuildDate>Mon, 20 Dec 2021 09:04:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>
-		Merhaba dünya! yazısına Bir WordPress yorumcusu tarafından yapılan yorumlar		</title>
+		Yazar: Bir WordPress yorumcusu		</title>
 		<link>https://germanyum.github.io/2021/12/20/merhaba-dunya/#comment-1</link>
 
 		<dc:creator><![CDATA[Bir WordPress yorumcusu]]></dc:creator>
